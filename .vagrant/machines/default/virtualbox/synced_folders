@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/tarekmehrez/workspace/dlc-demo","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/dlc-demo":{"guestpath":"/dlc-demo","hostpath":"/Users/tarekmehrez/workspace/dlc-demo","disabled":false,"__vagrantfile":true}}}
